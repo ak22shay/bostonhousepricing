@@ -1,5 +1,5 @@
 Flask
-sklearn
+scikit-learn scipy matplotlib
 pandas
 numpy
 matplotlib
