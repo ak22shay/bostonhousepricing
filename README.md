@@ -1,5 +1,5 @@
 
-# Long beach house pricing predictor model deployment on Heroku cloud
+# Automated machine learning/deep learning model deployment in Edge/Cloud devices​
 
 It is an Automated deployment strategy for ML model to deploy on a cloud.
 The model created here is for predicting long beach's housing price. The ML model has a web user interface that take input from the user and predicts the housing price.
@@ -38,7 +38,7 @@ Need to add actions in GitHub secrets
 - HEROKU_APP_NAME
 - HEROKU_EMAIL
 
-Once all the above steps are performed, application will be tun on a cloud environment.
+Once all the above steps are performed, application will run on a cloud environment.
 
 
     
